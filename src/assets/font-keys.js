@@ -1,0 +1,1 @@
+export const KENNEY_FUTURE_FONT_NAME = 'Kenney-Future';
